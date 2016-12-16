@@ -3,8 +3,11 @@ h1{
     color: blue;
 }
 p{
-    color:green;
+    color:white;
 }
 body{
     background-image: url("https://c1.staticflickr.com/8/7296/12657209704_8557aea4b8_b.jpg")
+}
+img{
+    float: right;
 }
