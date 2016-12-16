@@ -3,11 +3,13 @@ h1{
     color: blue;
 }
 p{
-    color:white;
+    color:chartreuse;
+}
+img{
+    float: left;
+    margin:0 0 10px 10px;
+    /*background-image: url("https://c1.staticflickr.com/8/7296/12657209704_8557aea4b8_b.jpg")*/
 }
 body{
     background-image: url("https://c1.staticflickr.com/8/7296/12657209704_8557aea4b8_b.jpg")
-}
-img{
-    float: right;
 }
