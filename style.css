@@ -1,21 +1,26 @@
 h1{
     text-align: center;
     color: blue;
+    font-size: 40px;
 }
 img{
     float: left;
-    margin:0 0 10px 10px ;
+    margin:0 0 20px 20px ;
     height: 200px;
+   
 }
 .div1{
     color:chartreuse;
-     width: 25em; 
-    border: 2px solid ;
+     width: 35em; 
+    border: 5px solid ;
     word-wrap: break-word;
     clear: left;
     float: right;
+    font-size: 30px;
 }
 
 body{
     background-image: url("https://c1.staticflickr.com/8/7296/12657209704_8557aea4b8_b.jpg")
 }
+
+    float: right;
