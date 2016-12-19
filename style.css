@@ -2,6 +2,7 @@ h1{
     text-align: center;
     color: blue;
 }
+
 p{
     color:chartreuse;
 }
@@ -10,11 +11,22 @@ body{
     background-image: url("https://c1.staticflickr.com/8/7296/12657209704_8557aea4b8_b.jpg")
 }
 
+
+
 img{
     float: left;
-    margin:0 0 10px 10px;
-    /*background-image: url("https://c1.staticflickr.com/8/7296/12657209704_8557aea4b8_b.jpg")*/
+    margin:0 0 10px 0px ;
+    height: 200px;
 }
+.div1{
+    color:chartreuse;
+     width: 25em; 
+    border: 2px solid ;
+    word-wrap: break-word;
+    clear: left;
+    float: right;
+}
+
 body{
     background-image: url("https://c1.staticflickr.com/8/7296/12657209704_8557aea4b8_b.jpg")
 }
